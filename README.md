@@ -18,8 +18,8 @@ pip install -r requirements.txt
 ## ⚡ Instalación rápida
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/ocr-read.git
-   cd ocr-read
+   git clone https://github.com/TheGatoSamurai/Easy-OCR-Reader
+   cd Easy-OCR-Reader
    ```
 2. (Opcional) Crea y activa un entorno virtual:
    ```bash
